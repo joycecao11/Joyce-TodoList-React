@@ -1,0 +1,60 @@
+body {
+  background-color: lightyellow;
+  /* border: 1px solid green; */
+}
+#loginSign{
+  text-align: center;
+  font-size: 4vh;
+}
+.loginContainer{
+  height : 50 vh;
+  background: paleturquoise;
+  margin-left : 30%;
+  margin-right : 30%;
+}
+.inputBox{
+  margin-left : 10%;
+  width : 10vw;
+  height : 5vh;
+}
+.inputText{
+  margin-left : 20%;
+}
+#submit{
+  margin-left : 40%;
+  background : orange;
+  font-size: 2vh;
+  position: center;
+  width : 10vw;
+  height : 5vh;
+}
+#messageArea{
+  margin-left : 15%;
+  background : lightskyblue;
+  width : 30vw;
+  height : 3vh;
+}
+#funImage{
+  width : 40%;
+  height : 35vh;
+  display: block;
+  margin-left : auto;
+  margin-right : auto;
+}
+#title{
+  background: lightsteelblue;
+  font-size: 6vh;
+  margin-left : 20%;
+  margin-right : 20%;
+  text-align: center;
+}
+#headerLogo{
+  width : 40%;
+  height : 10vh;
+  display: block;
+  margin-left : auto;
+  margin-right : auto;
+}
+#mainContent{
+  column-count: 2;
+}
